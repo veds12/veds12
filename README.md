@@ -15,7 +15,8 @@ Feel free to DM me on Twitter or LinkedIn or contact me through mail
 
 [twitter]: https://twitter.com/veds_12
 [linkedin]: https://www.linkedin.com/in/vedant-shah-00547576/
-[gmail]: mailto:vedantshah2012@gmail.com
+[gmail]: mailto:vedantshah2012@gmail.com  
+<br>
 
 ![Vedant's github stats](https://github-readme-stats.vercel.app/api?username=veds12&count_private=true&show_icons=true&theme=vue)
 

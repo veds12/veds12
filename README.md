@@ -1,5 +1,5 @@
 ### Hi there! 👋
- I am Vedant Shah, currently an undergraduate pursuing Electronics and Communications Engineering at BITS Pilani, Goa Campus. I am interested in and am exploring the fields of Deep Learning, Reinforcement Learning, Robotics and applications involving intersections of these fields
+ I am an undergraduate student pursuing Electronics and Communications Engineering at BITS Pilani, Goa Campus. I am interested in and am exploring the fields of Deep Learning, Reinforcement Learning, Robotics and applications involving intersections of these fields
 
 
 ### Contact me:
